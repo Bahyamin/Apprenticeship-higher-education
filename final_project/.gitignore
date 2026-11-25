@@ -1,0 +1,4 @@
+# raw uncompressed export (90 MB, above the GitHub limit): the .csv.gz copy is versioned instead
+data/fr-esr-cartographie_formations_parcoursup.csv
+.ipynb_checkpoints/
+__pycache__/
