@@ -2,7 +2,7 @@
 
 Final project of the course **Programming for Data Science** (ESILV, Hugo Alatrista-Salas).
 
-**Team:** Maxence COLLIN (team head), FirstName FAMILYNAME, FirstName FAMILYNAME
+**Team:** Maxence COLLIN (team head), Clément PHUNG, Benjamin ZILBER
 
 We follow the KDD process (selection, pre-processing, transformation, data mining, interpretation) on a real multidimensional dataset to answer one question: how did apprenticeship spread across the programmes that French students choose after the baccalauréat, where is it concentrated, and what comes next?
 
